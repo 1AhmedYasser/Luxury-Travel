@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Luxury Travel</string>
+    <string name="Company_Title">Luxury Travel</string>
+    <string name="Solgan">Relax and enjoy travelling</string>
+    <string name="Contact_us">Contact us:</string>
+    <string name="Phone_Number">Phone: +2 22379567</string>
+    <string name="Email">Email: LuxuryTravelAir@hotmail.com</string>
+    <string name="Address">Address: 6 freedom street,downtown,cairo</string>
+    <string name="Service_Hours">Service hours: 24/7</string>
+    <string name="Web_Site">Website: https://luxury-travel.getsocio.com</string>
+</resources>
